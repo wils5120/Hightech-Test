@@ -1,0 +1,102 @@
+.contentGoal{
+    margin-top: 47px;
+}
+
+.contentGoal .iconGoal{
+    margin-left: 232px;
+    position: absolute;
+}
+
+.contentGoalTw{
+    display: flex;
+}
+
+.contentGoalTw .contentGoalFrist{
+    background: #fff;
+    margin: 12px;
+    margin-left: 24px;
+    margin-right: 0px;
+    width: 158px;
+    border-radius: 20px;;
+}
+
+.contentGoalTw .contentIsAMacLeft{
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #817699;
+    margin-top: 5px;
+}
+
+.contentGoalTw .contentImgs{
+    text-align: left;
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.contentGoalTw .contentGrphLeft{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.contentGoalTw .textWiGraphLeft{
+    padding-left: 5px;
+    text-align: left;
+}
+
+.contentGoalTw .textWiGraphLeft .moneyFri{
+    font-weight: 600;
+    font-size: 12px;
+    color: #54D1ED;
+    display: block;
+    margin-top: 17px;
+    line-height: 0;
+}
+
+.contentGoalTw .textWiGraphLeft .moneyTwis{
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    color: #817699;
+}
+
+.contentGoal .graph{
+    width: 50px;
+    height: 50px;
+    
+}
+
+.contentGoalTw .contentIsAMacRight{
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #817699;
+    margin-top: 16px;
+}
+
+.contentGoalTw .contentGrphRight{
+    margin-top: 29px;
+    margin-bottom: 20px;
+    display: flex;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.CircularProgressbar .CircularProgressbar-path{
+    stroke: #FAF9FD;
+}
+
+.CircularProgressbar .CircularProgressbar-trail{
+    stroke: #54D1ED;
+}
+.CircularProgressbar .CircularProgressbar-path{
+    stroke-linecap: initial;
+}
+.CircularProgressbar .CircularProgressbar-text{
+    fill:#54D1ED ;
+    font-size: 25px;
+}

@@ -1,0 +1,78 @@
+.container{
+    margin-top: 44px;
+}
+.content {
+    text-align: left;
+    padding-left: 24px;
+}
+.icon {
+    position: absolute;
+    padding-left: 202px;
+    top:45px;
+}
+.text{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color:#58506B;
+}
+.contPanel{
+    position: relative;
+    width: 339px;
+    height: 260px;
+    right: 24px;
+    left: 24px;
+    top: 10px;
+}
+.contentInfo{
+    position: absolute;
+    top: 30px;
+    width: 100%;
+    background: linear-gradient(180deg, rgba(44, 82, 216, 0) 0%, rgba(44, 82, 216, 0.4) 100%), #54D1ED;
+    border-radius: 7%;
+}
+.contImg{
+    display: flex;
+}
+.image{
+    position: relative;
+    bottom: 31px;
+    left: 33px;
+}
+.textStra{
+    position: relative;
+    width: 112px;
+    height: 50px;
+    left: 25px;
+    top: 30px;
+    font-style: normal;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana,  Open Sans;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: left;
+    color: white;
+}
+.contentText{
+    position: relative;
+    color: white;
+    bottom: 37px;
+    display: grid;
+    text-align: left;
+    left: 25px;
+}
+
+.textSald{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+}
+.numberSald{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 49px;
+}

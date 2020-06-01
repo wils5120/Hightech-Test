@@ -1,0 +1,103 @@
+.containerSaving{
+    position: relative;
+    left: 24px;
+    width: 339px;
+    margin-top: 40px;
+}
+
+.containerSaving .TextBoxSaving{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color: #58506B;
+    text-align: left;
+}
+
+.containerSaving .mediaSaving{
+    margin-top: 20px;
+    border-radius: 20px;
+    height: 310px;
+}
+
+.containerSaving .mediaSaving .awssld{
+    height: 100%;
+}
+
+.containerSaving .awssld__content{
+    background: transparent;
+    background-color: transparent;
+    border-radius: 20px;
+}
+
+.containerSaving .awssld__content .imgStyles{
+    height: 100%;
+    width: 100%;
+}
+
+.containerSaving .awssld__bullets {
+    justify-content: end;
+    bottom: -18px;
+}
+
+.containerSaving .awssld__content .imgSt{
+    width: 100%;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.containerSaving .awssld__bullets .awssld__bullets--active {
+    background: #54D1ED;
+    z-index: 0;
+}
+.containerSaving .awssld__bullets button{
+    background: #D7C7FF;
+    width: 10px;
+    height: 10px;
+}
+
+.containerSaving .awssld__bullets .awssld__bullets--active:hover{
+    transform: initial;
+}
+.mediaSaving .awssld__content .imgSaving{
+    position: absolute;
+    top: 175px
+}
+
+.mediaSaving .awssld__content .imgSaving .textSaving{
+    position: relative;
+    color: #FFFFFF;
+    display: block;
+    padding: 0 30px;
+    text-align: left;
+}
+
+.mediaSaving .awssld__content .imgSaving .textAhorro {
+    bottom: 85px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+}
+
+.mediaSaving .awssld__content .imgSaving .textRob {
+    bottom: 82px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+}
+
+.mediaSaving .awssld__container figure, .awssld__content, .awssld__box {
+    position: initial;    
+    width: 100%;
+    height: 315px;
+    visibility: initial;
+}
+
+.mediaSaving .awssld__controls__arrow-left, .mediaSaving .awssld__controls__arrow-right{
+    opacity: 0;
+}
+
+
+

@@ -1,0 +1,33 @@
+.contentInve{
+    position: relative;
+    width: 339px;
+    height: 102px;
+    left: 24px;
+    top: 20px;
+    margin-top: 32px;
+    background: #FFFFFF;
+    box-shadow: 0px 8px 20px rgba(197, 166, 236, 0.05);
+    border-radius: 20px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: left;
+    color: #58506B;
+}
+
+.contentInveText{
+    padding-top: 20px;
+    padding-left: 21px;
+    display: flex;
+}
+.valueIvent{
+    padding-left: 154px;
+    display: block;
+    width: 63px;
+    text-align: right;
+}
+.textInve {
+    display: block;
+    width: 72px;
+}

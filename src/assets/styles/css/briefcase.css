@@ -1,0 +1,150 @@
+.containerBrie .contentBrie{
+    padding-left: 24px;
+    text-align: left;
+    display: flex;
+}
+
+.containerBrie .contentBrie .text{
+    display: flex;
+    width: 283px;
+}
+
+.containerBrie .contentBrie .textEst{
+    border: 0.5px solid #41CF69;
+    margin-top: 4px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background: #E4FFEE;
+    height: 21px;
+    padding: 3px 10px;
+    font-size: 10px;
+    color: #41CF69;
+    display: flex;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 14px;
+}
+
+.containerBrie .contentBrieGraph{
+    position: relative;
+    width: 339px;
+    height: 229px;
+    left: 24px;
+    background: #FFFFFF;
+    box-shadow: 0px 8px 20px rgba(197, 166, 236, 0.05);
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.containerBrie .contentBrieGraph .containerGraphInf{
+    display: flex;
+    padding: 20px;
+    padding-bottom: 1px;
+}
+
+
+.containerBrie .contentBrieGraph .graph{
+    width: 120px;
+    height: 120px;
+}
+
+.containerBrie .contentBrieGraph .containerGraphInf .CircularProgressbar .CircularProgressbar-trail{
+    stroke:#58506b21;
+}
+
+.containerBrie .contentBrieGraph .containerGraphInf .CircularProgressbar .CircularProgressbar-path{
+    stroke: #41CF69;
+}
+
+.containerBrie .contentBrieGraph .containerGraphInf .textIntoGraph{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    color: #817699;
+}
+
+.containerBrie .contentBrieGraph .containerGraphInf .textIntoGraphChild{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #58506B;
+}
+
+.containerBrie .contentBrieGraph .containerGraphInf .contentInfoWithGrph{
+    margin-left: 23px;
+    text-align: left;
+}
+
+
+.containerBrie .contentBrieGraph .containerGraphInf .contentInfoWithGrph .fristPorc{
+    position: relative;
+    left: 25px;
+    bottom: 3px;
+    padding: 1px 8px;
+    background: #41CF69;
+    border-radius: 6px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 14px;
+    color: #FFFFFF;
+}
+
+.containerBrie .contentBrieGraph .containerGraphInf .contentInfoWithGrph  .lineHeighBrief{
+    line-height: 0px;
+}
+
+.containerBrie .contentBrieGraph .containerGraphInf .contentInfoWithGrph .twyst {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+}
+
+.containerBrie .contentBrieGraph .containerGraphInf .contentInfoWithGrph .three {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+}
+.containerBrie .contentBrieGraph .containerGraphInf .contentInfoWithGrph .textFristBrief {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 14px;
+    color: #41CF69;
+}
+
+.containerBrie .contentBrieGraph .containerGraphInf .contentInfoWithGrph .contentTextBrief{
+    line-height: 0px;
+    width: 82px;
+}
+
+.containerBrie .contentBrieGraph .containerGraphInf .contentInfoWithGrph .textFristBriefTwo {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    color: #58506B;
+}
+
+.contentBrieGraph .footerTextBrief{
+    padding: 20px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    text-align: left;
+}
+
+.contentBrieGraph .IconLeftBrie{
+    margin-left: 130px;
+}
+
+.contentBrieGraph .IconRightBrie{
+    margin-left: 92px;
+}
